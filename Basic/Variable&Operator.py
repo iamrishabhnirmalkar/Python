@@ -28,3 +28,22 @@ print(dict1)
 
 
 # ++++++++++++++++      All is the Object in Python
+
+
+# 3. operators
+
+# Arithmetic operators
+print(5+6)
+print(15-6)
+print(15*6)
+print(15/6)  # 2.5
+print(15//6)  # 2
+print(5 % 3)  # 2
+print(2**4)  # 16
+# Assignment operators
+
+# Comparison operators
+# Logical operators
+# Identity operators
+# Membership operators
+# Bitwise operators
