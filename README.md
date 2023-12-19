@@ -6,4 +6,5 @@
 
 # Day 02
 
-1.
+1. Variable
+2. Data Type
