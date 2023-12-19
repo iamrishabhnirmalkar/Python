@@ -28,6 +28,31 @@
 4. String as an array
 5. Slicing
 
+# StringMethod
+
+1. upper()
+2. lower()
+3. strip()
+4. rstrip()
+5. replace()
+6. split()
+7. capitalize()
+8. center()
+9. count()
+10. endswith()
+11. find()
+12. index()
+13. isalnum()
+14. isalpha()
+15. islower()
+16. isprintable()
+17. isspace()
+18. istitle()
+19. isupper()
+20. startswith()
+21. swapcase()
+22. title()
+
 ## Exercise
 
 Calculator
