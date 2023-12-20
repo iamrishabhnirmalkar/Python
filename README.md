@@ -61,7 +61,12 @@
 
 # MatchCase Statements
 
-1.
+# loop
+
+1.  for loop
+2.  while loop
+
+# Break and Continue
 
 ## Exercise
 
