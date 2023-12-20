@@ -53,6 +53,12 @@
 21. swapcase()
 22. title()
 
+# Conditional Statements
+
+1. if else
+2. esif
+3. nested
+
 ## Exercise
 
 Calculator
