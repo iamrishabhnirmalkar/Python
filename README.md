@@ -70,6 +70,9 @@
 
 # Function
 
+1. Built-in functions
+2. User-defined functions
+
 ## Exercise
 
 Calculator
