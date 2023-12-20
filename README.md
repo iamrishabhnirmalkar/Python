@@ -68,6 +68,8 @@
 
 # Break and Continue
 
+# Function
+
 ## Exercise
 
 Calculator
